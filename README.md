@@ -1,7 +1,15 @@
 # 基于vuex写一个todo-list
 
 ## 项目演示地址
-[See here](https://s3-2909.github.io/vuex_TodoList/ )
+[基于vuex写一个todo-list](https://s3-2909.github.io/vuex_TodoList/ )
+
+```
+/**
+ * @author yzs
+ * @authorEmail s32909@yeah.net
+ **/
+
+```javascript
 
 ## Project setup
 ```
@@ -17,6 +25,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
